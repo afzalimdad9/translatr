@@ -1,9 +1,9 @@
 '''
 
 =====================
-(c) Varun Malhotra 2015
-http://softvar.github.io
-Source Code: https://github.com/softvar/
+(c) Afzal Imdad 2024
+http://afzalimdad9.vercel.app
+Source Code: https://github.com/afzalimdad9/
 ------------
 LICENSE: MIT
 --------

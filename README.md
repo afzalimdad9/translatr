@@ -31,7 +31,7 @@ For the front-end part, [AngularJs](https://angularjs.org/) is used along with [
 ### Code Contributors
 
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/softvar/translatr/graphs/contributors"><img src="https://opencollective.com/translatr/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/afzalimdad9/translatr/graphs/contributors"><img src="https://opencollective.com/translatr/contributors.svg?width=890&button=false" /></a>
 
 ### Financial Contributors
 
